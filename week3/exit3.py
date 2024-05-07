@@ -1,10 +1,12 @@
-score = float(input("Enter your numerical score: "))
+# Write a program to give a letter grade based on the score input by the user
+
+#score = float(input("Enter your numerical score: "))
 if score < 0 or score > 100:
-	#enter a invalid score message
+	#enter an invalid score error message
 #write the condition
-	print("A")
+	#print("A")
 #score greater than or equal to 80:
-        print("B")
+       # print("B")
 #score greater than or equal to 70:
         #what should it print?
 elif score >= 60
